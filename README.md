@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project converts the compressed genetic representation of a **BoxCar2D** car into a synthetic DNA sequence. The DNA sequences can be saved in **FASTA** format for further analysis or sequence alignment using tools like **MEGA**.  
+This Script converts the compressed genetic representation of a **BoxCar2D** car into a synthetic DNA sequence. The DNA sequences can be saved in **FASTA** format for further analysis or sequence alignment using tools like **MEGA**.  
 
 The main goals of the project are:
 
